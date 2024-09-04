@@ -3,7 +3,7 @@
 Nome do Projeto: ConsultAI
 
 Integrantes: 
-  Luiz Henrique Cavalcanti de Freitas;
+\nLuiz Henrique Cavalcanti de Freitas;
 Carlos Cavalcante Silva de Oliveira;
 Nathália Carvalho Pascoal;
 Maria Eduarda Pernambuco Souza Leão;
