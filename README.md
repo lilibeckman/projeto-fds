@@ -41,7 +41,7 @@ O sistema possibilita escolha de horários disponíveis para consulta
 O site disponibiliza uma inteligência interficial na qual soluciona prolemas mais simples dos usuários
 
 7. “Quero acessar perguntas frequentes de situações jurídicas”
-O sistema disponibiliza uma sessão de perguntas frequentes já respondidas por inteligência artificial
+O sistema disponibiliza uma sessão de perguntas frequentes já respondidas pela inteligência artificial
 
 8. “Quero me cadastrar como advogado para receber clientes”
 O sistema possibilita o cadastro de advogados com OAB e especialidade
