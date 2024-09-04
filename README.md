@@ -15,3 +15,20 @@ Link dos protótipos no figma -> [https://www.figma.com/proto/ic2pmGk5CazRxmTHdq
 
 Backlog do Projeto:
 ![backlog](https://github.com/user-attachments/assets/b4912fed-62e3-4ad0-b295-a80125e33a0e)
+
+Screencast do Protótipo: https://drive.google.com/file/d/1W-QPMvT-gxv3wDlL3Aid3Ku6qnedX4IY/view?usp=sharing
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
