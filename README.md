@@ -19,7 +19,7 @@ Um site de auxílio jurídico destinado aos leigos no mundo do direito e a advog
 
 
 ### [Backlog do Projeto](https://github.com/user-attachments/assets/b4912fed-62e3-4ad0-b295-a80125e33a0e)
-
+![image](https://github.com/user-attachments/assets/28bcc004-0c2a-443d-b53a-19dc54dc71d8)
 
 ### [Link dos protótipos no figma](https://www.figma.com/design/ic2pmGk5CazRxmTHdqumtf/CONSULTAI?node-id=0-1&node-type=CANVAS&t=e7DpMNWYEskechkn-0)
 
