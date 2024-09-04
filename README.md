@@ -1,6 +1,6 @@
 # ⚖️Nome do Projeto: ConsultAI
 
-###  🧍Integrantes: 
+### Integrantes: 
 
 Luiz Henrique Cavalcanti de Freitas;
 
