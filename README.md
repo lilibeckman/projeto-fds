@@ -21,9 +21,9 @@ Um site de auxílio jurídico destinado aos leigos no mundo do direito e a advog
 * [Backlog do Projeto](https://github.com/user-attachments/assets/b4912fed-62e3-4ad0-b295-a80125e33a0e)
 
 
-* Link dos protótipos no figma -> [https://www.figma.com/proto/ic2pmGk5CazRxmTHdqumtf/CONSULTAI?node-id=13-16&t=e7DpMNWYEskechkn-1](https://www.figma.com/design/ic2pmGk5CazRxmTHdqumtf/CONSULTAI?node-id=0-1&node-type=CANVAS&t=e7DpMNWYEskechkn-0)
+* [Link dos protótipos no figma](https://www.figma.com/design/ic2pmGk5CazRxmTHdqumtf/CONSULTAI?node-id=0-1&node-type=CANVAS&t=e7DpMNWYEskechkn-0)
 
-* Screencast do Protótipo: https://drive.google.com/file/d/1W-QPMvT-gxv3wDlL3Aid3Ku6qnedX4IY/view?usp=sharing
+* [Screencast do Protótipo](https://drive.google.com/file/d/1W-QPMvT-gxv3wDlL3Aid3Ku6qnedX4IY/view?usp=sharing)
 
 ### 📖Histórias
 
